@@ -22,4 +22,4 @@ here is a link to another site, two ways -- a "raw" link, and a link with custom
 - [poohbot!](https://poohbot.com)
 
 here is a link to another page on this site
-- [page2](page2.html)
+- [page2](page2)
