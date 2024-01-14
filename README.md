@@ -17,6 +17,9 @@ this is *bold* text
 
 this is _italic_ text
 
-here is a "raw" link, and a a link with custom text:
+here is a link to another site, two ways -- a "raw" link, and a link with custom text:
 - https://poohbot.com
 - [poohbot!](https://poohbot.com)
+
+here is a link to another page on this site
+- [page2](page2.html)
