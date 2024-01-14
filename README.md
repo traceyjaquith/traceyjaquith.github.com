@@ -13,7 +13,7 @@ This is a paragraph, plus some more info
 2. register jeep
 3. get cool license plate
 
-this is *bold* text
+this is **bold** text
 
 this is _italic_ text
 
