@@ -1,9 +1,7 @@
-# tracey jaquith website
+## Tracey Demo
+Tracey Jaquith's demo website, helping people make websites
 
-## description
-Tracey Jaquith's fun new website
-
-paragraph 2 and some more info
+This is a paragraph, plus some more info
 
 ## to do list
 - help people
@@ -18,3 +16,7 @@ paragraph 2 and some more info
 this is *bold* text
 
 this is _italic_ text
+
+here is a "raw" link, and a a link with custom text:
+- https://poohbot.com
+- [poohbot!](https://poohbot.com)
